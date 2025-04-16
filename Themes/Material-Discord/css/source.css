@@ -2,7 +2,7 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
 :root {
   --app-font: "Google Sans";
-  --app-bg: var(--main-alt);
+  --app-bg: url(https://i.imgur.com/fygpkcm.jpeg);
   --app-watermark-one: "Material";
   --app-watermark-two: "Discord";
   --app-title-bar-height: 22px;
